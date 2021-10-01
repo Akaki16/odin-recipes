@@ -1,0 +1,68 @@
+body {
+    background: whitesmoke;
+    font-family: sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: #333;
+}
+
+.img-cont {
+    text-align: center;
+}
+
+.recipes-list-title {
+    text-align: center;
+    color: #333;
+}
+
+.recipes {
+    text-align: center;
+    list-style: none;
+}
+
+.recipes li {
+    font-size: 19px;
+    margin: 10px;
+}
+
+.desc {
+    text-align: center;
+}
+
+.desc h2 {
+    color: #333
+}
+
+.desc p {
+    font-size: 16px;
+}
+
+.ings {
+    max-width: 500px;
+    height: auto;
+    background: rgb(156, 151, 151);
+    margin: 0 auto;
+    color: #fff;
+    padding: 10px;
+}
+
+.ings ul li {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.steps {
+    max-width: 500px;
+    height: auto;
+    background: rgb(156, 151, 151);
+    margin: 0 auto;
+    color: #fff;
+    padding: 10px;
+}
+
+.steps ol li {
+    margin: 10px;
+    font-size: 20px;
+}
